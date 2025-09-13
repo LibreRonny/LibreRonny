@@ -33,10 +33,6 @@
   <a href="https://fonts.google.com/" target="_blank" rel="noreferrer"><img src="assets/google-fonts.svg" alt="Google Fonts" width="40" height="40"/></a>
 </p>
   
-- **Core:** Android Native (Kotlin), Jetpack Compose, Room Database, Hilt, Navigation Components
-- **Architecture:** MVVM, Repository Pattern, Dependency Injection
-- **Tools & Platforms:** Git, GitHub, Android Studio, Gradle
-  
 ---
   
 ## My Featured Project <a href="https://github.com/ronnydrooid/RetailEase"> click to view</a>
@@ -56,7 +52,7 @@ When I’m not shipping features or fixing bugs, you’ll probably find me:
   
 ---
   
-[![Ronny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronnydrooid&theme=react-dark&hide_border=true&bg_color=09741F&color=E2FFA0&line=8BDE14 )](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ronny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronnydrooid&theme=react-dark&hide_border=true&bg_color=1F1A2C&color=FFD700&line=8A2BE2)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <img src="https://pbs.twimg.com/media/EhWgxY4WsAAGw2A.png:large" width='150' alt="majima">
   
