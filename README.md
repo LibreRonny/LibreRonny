@@ -1,6 +1,6 @@
 # Hey, I'm Ronny   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="wave.gif" alt="Android" width="40" height="35"/></a>
   
-<img src="https://images.steamusercontent.com/ugc/961978316112851075/4452AA443CF755A9B4F7F58E40794A74D6C73B26/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="majima"/>
+<img src="TheHellAmIEvenDoin.webp" alt="majima"/>
   
 **Full-time Android developer. Part-time gamer. Snooker enthusiast.**
   
