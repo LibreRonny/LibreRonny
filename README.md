@@ -1,8 +1,12 @@
-# Ronny Arora <img src="https://pbs.twimg.com/media/EhWgxY4WsAAGw2A.png" alt="Majima" width="45" height="45"/>
+<h1 align="left">
+  Ronny Arora 
+  <img src="https://pbs.twimg.com/media/EhWgxY4WsAAGw2A.png" alt="Majima" width="55" height="45" style="vertical-align: middle; margin-left: 10px;"/>
+</h1>
+
 
 <img src="assets/goro-majima-welcome.gif" alt="majima"/>
 
-**Full-time Android developer. Part-time gamer. Snooker enthusiast.**
+**`🐉 Code Like a Dragon, Break Like a Cue`**
 
 ## Connect with me
 
@@ -49,10 +53,16 @@
 
 ---
 
-## My Featured Project <a href="https://github.com/ronnydrooid/RetailEase"> click to view</a>
+## Featured Projects 🚀
 
-POS Billing Software for SMEs
-Built a robust POS billing solution tailored specifically for wholesale enterprises. Prints receipts, streamlines sales, and helps businesses run smoother.
+<div align="center">
+  <a href="https://github.com/ronnydrooid/RetailEase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronnydrooid&repo=RetailEase&theme=react&hide_border=true&bg_color=1F1A2C&title_color=FFD700&text_color=FFFFFF" alt="RetailEase"/>
+  </a>
+</div>
+
+**RetailEase** - POS Billing Software for SMEs  
+Built a robust POS billing solution tailored for wholesale enterprises. Features receipt printing, streamlined sales processing, and business management tools.
 
 ---
 
