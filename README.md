@@ -64,13 +64,6 @@ I'm a Computer Applications graduate and a mostly self-taught developer from Ind
   </a>
 </td>
 
-<!-- Game Info -->
-<td>
-
-Robust Android POS tailored for wholesale & retail enterprises, Features receipt printing, streamlined sales processing, and business management tools.
-
-</td>
-
 <!-- Playtime -->
 <td width="250">
 
