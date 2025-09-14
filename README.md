@@ -1,4 +1,4 @@
-# Ronny Arora <img src="assets/wave.gif" width= "32" alt="waving">
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=1f1a2b&text=RONNY%20ARORA&section=header&reversal=false&fontAlignY=50&animation=fadeIn&rotate=0&textBg=false&fontColor=fdd83e&fontAlign=50&fontSize=50)
 
 **`🐉 Code Like a Dragon`**
 
