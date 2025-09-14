@@ -68,7 +68,7 @@ I'm a Computer Applications graduate and a mostly self-taught developer from Ind
 <td width="250">
 
 🕒 120 hrs on record  
-⏱️ Last commit: <!--RETAILEASE_COMMIT-->
+⏱️ Last commit: 5 days ago
 
 </td>
 
