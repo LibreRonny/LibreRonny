@@ -1,6 +1,6 @@
 # Ronny Arora <img src="https://pbs.twimg.com/media/EhWgxY4WsAAGw2A.png" alt="Majima" width="45" height="45"/>
 
-<img src="https://media1.tenor.com/m/0qqDTqLDmGMAAAAC/goro-majima-welcome.gif" alt="majima"/>
+<img src="assets/goro-majima-welcome.gif" alt="majima"/>
 
 **Full-time Android developer. Part-time gamer. Snooker enthusiast.**
 
@@ -69,3 +69,5 @@ When I’m not shipping features or fixing bugs, you’ll probably find me:
 [![Ronny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronnydrooid&theme=react-dark&hide_border=true&bg_color=1F1A2C&color=FFD700&line=8A2BE2)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 **Always open to new challenges and collaborations!**
+
+<img src="assets/majimaRubberDucky.png" alt="majima" width="100"/>
