@@ -49,7 +49,7 @@
 
 ---
 
-## Featured Projects <img src = "assets/pixelArt2.png" width= "40" alt="majimepixelart">
+## Featured Projects <img src="assets/pixelart2.png" width = "40">
 
 <div align="center">
   <a href="https://github.com/ronnydrooid/RetailEase">
