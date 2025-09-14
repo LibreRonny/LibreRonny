@@ -1,10 +1,10 @@
-# Ronny Arora <img src="assets/wave.gif" width= "40" alt="waving">
+# Ronny Arora <img src="assets/wave.gif" width= "32" alt="waving">
 
 <img src="assets/majima_purple_hd.webp" alt="majima"/>
 
 **`🐉 Code Like a Dragon`**
 
-## Skills & Tech Stack <img src="assets/majimaRubberDucky.png" width="40" alt="majimepixelart">
+## Skills & Tech Stack <img src="assets/majimaRubberDucky.png" width="28" alt="majimepixelart">
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="assets/android.svg" alt="Android" width="40" height="40"/></a>
@@ -40,7 +40,7 @@
 
 ---
 
-## Connect with me <img src="assets/pixelArt1.png" width="40" alt="majimepixelart">
+## Connect with me <img src="assets/pixelArt1.png" width="28" alt="majimepixelart">
 
 <a href="https://g.dev/ronnyA"><img src="https://img.shields.io/badge/Google%20Developers-1A73E8?style=for-the-badge&logo=googlesummerofcode&logoColor=white" alt="Google Developers" /></a>
 <a href="https://steamcommunity.com/id/brahmibae/"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
@@ -49,7 +49,7 @@
 
 ---
 
-## Featured Projects <img src="assets/pixelart2.png" width = "40">
+## Featured Projects <img src="assets/pixelart2.png" width = "28">
 
 <div align="center">
   <a href="https://github.com/ronnydrooid/RetailEase">
@@ -63,7 +63,7 @@ Built a robust POS billing solution tailored for wholesale enterprises. Features
 
 ---
 
-## Outside of Code <img src="assets/majime_pixel_art.webp" height="40" width="40" alt="majimepixelart"/>
+## Outside of Code <img src="assets/majime_pixel_art.webp" height="28" width="28" alt="majimepixelart"/>
 
 When I’m not shipping features or fixing bugs, you’ll probably find me:
 
@@ -75,6 +75,6 @@ When I’m not shipping features or fixing bugs, you’ll probably find me:
 
 [![Ronny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronnydrooid&theme=react-dark&hide_border=true&bg_color=1F1A2C&color=FFD700&line=8A2BE2)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://pbs.twimg.com/media/EhWgxY4WsAAGw2A.png" alt="majima" height="150"/>
+<img src="https://pbs.twimg.com/media/EhWgxY4WsAAGw2A.png" alt="majima" height="120"/>
 
 **Always open to new challenges and collaborations!**
