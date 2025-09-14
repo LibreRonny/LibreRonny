@@ -4,7 +4,7 @@
 
 I'm a Computer Applications graduate and a mostly self-taught developer from India. My main focus is Kotlin and Android development, I currently work as a freelance developer, helping small firms and SMEs with system design and automation. Over the past few years, I’ve gained solid experience in developing robust POS systems tailored for wholesale and retail businesses. While Android remains my core strength, I’m also exploring Kotlin Multiplatform (KMP) to broaden my skills.
 
-## Skills & Tech Stack <img src="assets/majimaRubberDucky.png" width="28" alt="majimepixelart">
+## Skills & Tech Stack 🤹🏻‍♂️
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="assets/android.svg" alt="Android" width="40" height="40"/></a>
@@ -79,7 +79,7 @@ I'm a Computer Applications graduate and a mostly self-taught developer from Ind
 
 ---
 
-## Outside of Code <img src="assets/majime_pixel_art.webp" height="28" width="28" alt="majimepixelart"/>
+## Outside of Code <img src="https://pbs.twimg.com/media/EhWgxY4WsAAGw2A.png" height="28" width="28" alt="majimepixelart"/>
 
 When I’m not shipping features or fixing bugs, you’ll probably find me:
 
@@ -91,6 +91,11 @@ When I’m not shipping features or fixing bugs, you’ll probably find me:
 
 [![Ronny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronnydrooid&theme=react-dark&hide_border=true&bg_color=1F1A2C&color=FFD700&line=8A2BE2)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://pbs.twimg.com/media/EhWgxY4WsAAGw2A.png" alt="majima" height="120"/>
 
+<div align="center">
+  
 **Always open to new challenges and collaborations!**
+<img align="left" src="https://pbs.twimg.com/media/EhWgxY4WsAAGw2A.png" alt="majima" height="120"/>
+<img align="right" src="assets/majimaRubberDucky.png" alt="majima" height="120"/>
+
+</div>
