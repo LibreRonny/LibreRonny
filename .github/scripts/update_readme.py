@@ -4,8 +4,6 @@ from datetime import datetime, timezone
 
 REPOS = {
     "RETAILEASE": "ronnydrooid/RetailEase",
-    "YOUR_OTHER_REPO": "ronnydrooid/OtherRepo",
-    # add more here
 }
 
 README_FILE = "README.md"
