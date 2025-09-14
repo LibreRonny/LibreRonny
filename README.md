@@ -1,8 +1,7 @@
 <h1 align="left">
-  Ronny Arora 
+  Ronny Arora
   <img src="https://pbs.twimg.com/media/EhWgxY4WsAAGw2A.png" alt="Majima" width="55" height="45" style="vertical-align: middle; margin-left: 10px;"/>
 </h1>
-
 
 <img src="assets/goro-majima-welcome.gif" alt="majima"/>
 
