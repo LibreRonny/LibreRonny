@@ -51,7 +51,7 @@ I'm a Computer Applications graduate and a mostly self-taught developer from Ind
 
 ## Featured Projects <img src="assets/pixelart2.png" width = "28">
 
-<div align="center">
+<div>
 
 <table>
 <tr>
