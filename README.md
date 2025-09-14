@@ -1,8 +1,8 @@
 # Ronny Arora <img src="assets/wave.gif" width= "32" alt="waving">
 
-<img src="assets/majima_purple_hd.webp" alt="majima"/>
-
 **`🐉 Code Like a Dragon`**
+
+I'm a Computer Applications graduate and a mostly self-taught developer from India. My main focus is Kotlin and Android development, I currently work as a freelance developer, helping small firms and SMEs with system design and automation. Over the past few years, I’ve gained solid experience in developing robust POS systems tailored for wholesale and retail businesses. While Android remains my core strength, I’m also exploring Kotlin Multiplatform (KMP) to broaden my skills.
 
 ## Skills & Tech Stack <img src="assets/majimaRubberDucky.png" width="28" alt="majimepixelart">
 
@@ -52,14 +52,37 @@
 ## Featured Projects <img src="assets/pixelart2.png" width = "28">
 
 <div align="center">
-  <a href="https://github.com/ronnydrooid/RetailEase">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronnydrooid&repo=RetailEase&theme=react&hide_border=true&bg_color=1F1A2C&title_color=FFD700&text_color=FFFFFF" alt="RetailEase"/>
-  </a>
-</div>
-&nbsp;
 
-**RetailEase** - POS Billing Software for SMEs  
-Built a robust POS billing solution tailored for wholesale enterprises. Features receipt printing, streamlined sales processing, and business management tools.
+<table>
+<tr>
+
+<!-- Repo Stats Card -->
+<td width="420">
+  <a href="https://github.com/ronnydrooid/RetailEase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronnydrooid&repo=RetailEase&theme=react&hide_border=true&bg_color=1F1A2C&title_color=FFD700&text_color=FFFFFF" 
+         alt="RetailEase"/>
+  </a>
+</td>
+
+<!-- Game Info -->
+<td>
+
+Robust Android POS tailored for wholesale & retail enterprises, Features receipt printing, streamlined sales processing, and business management tools.
+
+</td>
+
+<!-- Playtime -->
+<td width="250">
+
+🕒 120 hrs on record  
+⏱️ Last commit: <!--RETAILEASE_COMMIT-->
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
