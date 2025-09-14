@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=1f1a2b&text=RONNY%20ARORA&section=header&reversal=false&fontAlignY=50&animation=fadeIn&rotate=0&textBg=false&fontColor=fdd83e&fontAlign=50&fontSize=50)
 
-**`🐉 Code Like a Dragon`**
+<p align="center">
+  <code>🐉 Code Like a Dragon</code>
+</p>
+
 
 I'm a Computer Applications graduate and a mostly self-taught developer from India. My main focus is Kotlin and Android development, I currently work as a freelance developer, helping small firms and SMEs with system design and automation. Over the past few years, I’ve gained solid experience in developing robust POS systems tailored for wholesale and retail businesses. While Android remains my core strength, I’m also exploring Kotlin Multiplatform (KMP) to broaden my skills.
 
