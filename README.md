@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=1f1a2b&text=RONNY%20ARORA&section=header&reversal=false&fontAlignY=50&animation=fadeIn&rotate=0&textBg=false&fontColor=fdd83e&fontAlign=50&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=1f1a2b&text=Ronny%20Arora&section=header&reversal=false&fontAlignY=50&animation=fadeIn&rotate=0&textBg=false&fontColor=fdd83e&fontAlign=50&fontSize=50)
 
 <p align="center">
   <code>🐉 Code Like a Dragon</code>
@@ -38,14 +38,14 @@ I'm a Computer Applications graduate and a mostly self-taught developer from Ind
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="assets/notion.svg" alt="Notion" width="40" height="40"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://fonts.google.com/" target="_blank" rel="noreferrer"><img src="assets/google-fonts.svg" alt="Google Fonts" width="40" height="40"/></a>
+  <a href="https://developers.google.com/profile/u/ronnyA" target="_blank" rel="noreferrer"><img src="assets/google-fonts.svg" alt="Google Fonts" width="40" height="40"/></a>
 </p>
 
 ---
 
 ## Connect with me <img src="assets/pixelArt1.png" width="28" alt="majimepixelart">
 
-<a href="https://g.dev/ronnyA"><img src="https://img.shields.io/badge/Google%20Developers-1A73E8?style=for-the-badge&logo=googlesummerofcode&logoColor=white" alt="Google Developers" /></a>
+<a href="https://developers.google.com/profile/u/ronnyA"><img src="https://img.shields.io/badge/Google%20Developers-1A73E8?style=for-the-badge&logo=googlesummerofcode&logoColor=white" alt="Google Developers" /></a>
 <a href="https://steamcommunity.com/id/brahmibae/"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 <a href="https://t.me/theDeadWiz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="mailto:ronny.9fxkl@simplelogin.co"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
